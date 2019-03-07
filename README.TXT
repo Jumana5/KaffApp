@@ -2,7 +2,7 @@ This is a group project by:
 Jumana AlGhamdi 
 Mariam Alayat
 Zainah Alhaddad
-Lutifa Alolyan
+Latifa Alolyan
 Duaa Saleh
 
 
