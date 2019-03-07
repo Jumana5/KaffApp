@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-sources>
+	<data-source id="mysql5-1694d4f03ab-1e4a833662424c41" provider="mysql" driver="mysql5" name="MySQL - Kaff" save-password="true" read-only="false">
+		<connection host="localhost" port="3306" server="" database="Kaff" url="jdbc:mysql://localhost:3306/Kaff" user="root" password="OQ5XchIXEUBl8w==" home="C:\Program Files\MySQL\MySQL Router 8.0" type="dev"/>
+	</data-source>
+	<filters/>
+</data-sources>
